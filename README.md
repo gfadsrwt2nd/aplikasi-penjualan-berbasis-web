@@ -1,7 +1,7 @@
 # aplikasi-penjualan-berbasis-web
 
 
-<h5> Perancangan Program Untuk Tugas Akhir<br> 
+<h5> Perancangan Program Tugas Akhir<br> 
   Nama    : M.Rusdi <br>
   Npm     : 1913049<br>
   Prodi   : Teknik Informatika<br>
